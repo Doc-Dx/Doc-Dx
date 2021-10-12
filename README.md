@@ -8,9 +8,12 @@
 - 💞️ I’m trying to collaborate with my own
 - 📫 You Cant reach me by the way 
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/6be88e29f77e9ca1319d2.jpg" />
+
 
 ### KNOW MORE ABOUT BOTS 
+
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/6be88e29f77e9ca1319d2.jpg" />
+
 
 |  <a href="https://t.me/botech_lanka"><img src="https://telegra.ph/file/77fc8c6170208509c374b.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
