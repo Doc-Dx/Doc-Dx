@@ -1,5 +1,4 @@
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/4d13e46733e0d8e2d7d3d.jpg" />
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/6be88e29f77e9ca1319d2.jpg" />
 
 ### [BOTS INFINITY](https://t.me/bots_infinity) 
 
@@ -8,6 +7,8 @@
 - 🌱 I’m currently learning to copy paste
 - 💞️ I’m trying to collaborate with my own
 - 📫 You Cant reach me by the way 
+
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/6be88e29f77e9ca1319d2.jpg" />
 
 ### KNOW MORE ABOUT BOTS 
 
