@@ -1,5 +1,5 @@
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/4d13e46733e0d8e2d7d3d.jpg" />
-<img width="90%" align="right" alt="Github" src="https://telegra.ph/file/4d13e46733e0d8e2d7d3d.jpg" />
+<img width="42%" align="left" alt="Github" src="https://telegra.ph/file/4d13e46733e0d8e2d7d3d.jpg" />
 
 ### [BOTS INFINITY](https://t.me/bots_infinity) 
 
