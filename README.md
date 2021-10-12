@@ -12,6 +12,42 @@
 
 ### KNOW MORE ABOUT BOTS 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/6be88e29f77e9ca1319d2.jpg" />
 
 
