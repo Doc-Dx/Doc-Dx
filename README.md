@@ -15,6 +15,7 @@
 
 
 ## WANNA KNOW MORE ABOUT BOTS !
+#### This is a one of my fav bot chats. Sometimes i cant understand what are they saying 😅❤️. Best bot developers are there to help you with your problems , Not me Im kinda CopyPaste developer 😅
 
 |  <a href="https://t.me/botech_lanka"><img src="https://telegra.ph/file/77fc8c6170208509c374b.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
