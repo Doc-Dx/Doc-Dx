@@ -29,7 +29,7 @@
 
 ### OTHER BOTS ! 
 
-|  <a href="https://t.me/Kaveesha_Induwara/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/bots_infinity/"><img src="https://telegra.ph/file/6763940fa978dbfe9742b.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[BOTS INFINITY](https://t.me/bots_infinity/)**                                                                                |
 |<a href="https://t.me/dx_doc"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="32px" height="32px"></a> <a href="https://github.com/Doc-Dx"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>|
