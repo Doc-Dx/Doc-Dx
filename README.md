@@ -15,7 +15,8 @@
 
 
 ## WANNA KNOW MORE ABOUT BOTS !
-#### This is a one of my fav bot chats. Sometimes i cant understand what are they saying 😅❤️. Best bot developers are there to help you with your problems , Not me Im kinda CopyPaste developer 😅
+#### This is a one of my fav bot chats. Sometimes i cant understand what are they saying 😅❤️. Best bot developers are there to help you with your problems 
+####( Not me Im kinda CopyPaste developer 😅)
 
 |  <a href="https://t.me/botech_lanka"><img src="https://telegra.ph/file/77fc8c6170208509c374b.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,6 +27,7 @@
 
 
 ## WANT ANY KIND OF MOVIE !
+#### Im the Co Owner of this channels , Join Here For Movies And Tv Series That You Want ❤️
 
 |  <a href="https://t.me/infinityLK"><img src="https://telegra.ph/file/d9fe048e9a9b99b12821f.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -34,6 +36,7 @@
 
 
 ## OTHER BOTS AND UPDATES ! 
+#### This Is My Bot Update Channel. Join Here For More Bot Updates ❤️
 
 |  <a href="https://t.me/bots_infinity/"><img src="https://telegra.ph/file/6763940fa978dbfe9742b.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
