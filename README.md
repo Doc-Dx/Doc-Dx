@@ -13,6 +13,10 @@
 |                                                                                   |
 |[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/botech_lanka)&nbsp;
 
+|  <a href="https://t.me/infinityLK"><img src="https://telegra.ph/file/d9fe048e9a9b99b12821f.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                   |
+|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/botech_lanka)&nbsp;
 
 <!---
 Doc-Dx/Doc-Dx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
